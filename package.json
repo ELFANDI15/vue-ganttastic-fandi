@@ -67,7 +67,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/InfectoOne/vue-ganttastic"
+    "url": "https://github.com/ELFANDI15/vue-ganttastic-fandi"
   },
   "dependencies": {
     "@vueuse/core": "^9.1.1"
